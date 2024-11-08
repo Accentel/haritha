@@ -11,7 +11,7 @@
     <meta content="width=device-width, initial-scale=1" name="viewport" />
     <meta name="description" content="Responsive Admin Template" />
     <meta name="author" content="RedstarHospital" />
-    <title>Hospital Managment System</title>
+    <title>Hospital Managment System </title>
     <!-- google font -->
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&amp;subset=all" rel="stylesheet" type="text/css" />
 	<!-- icons -->
@@ -47,7 +47,7 @@
 					<div class="contact100-form-checkbox">
 						<input class="input-checkbox100" id="ckb1" type="checkbox" name="remember-me">
 						<label class="label-checkbox100" for="ckb1">
-							Remember me
+							Remember me 
 						</label>
 					</div>
 					<div class="container-login100-form-btn">
@@ -56,7 +56,7 @@
 					</div>
 					<div class="text-center p-t-30">
 						<a class="txt1" href="">
-							Forgot Password?
+							Forgot Password? 
 						</a>
 					</div>
 				</form>
