@@ -1,3 +1,4 @@
+<!-- Developed by Accentel -->
 <?php
 session_start();
  $ses= $_SESSION['user'] ;
